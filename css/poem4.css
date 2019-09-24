@@ -1,0 +1,163 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 11pt;
+}
+.container1{
+  border: dashed 3px;
+  padding: 20px;
+  width:200px;
+  height:300px;
+  position:relative;
+  top: 44px;
+  left: 100px;
+}
+.container2{
+  border: dashed 3px;
+  padding: 20px;
+  width:200px;
+  height:300px;
+  position: absolute;
+  top: 146px;
+  left: 400px;
+}
+.container3{
+  border: dashed 3px;
+  padding: 20px;
+  width:200px;
+  height:300px;
+  position:absolute;
+  top: 146px;
+  left: 690px;
+}
+.container4{
+  border: dashed 3px;
+  padding: 20px;
+  width:200px;
+  height:300px;
+  position: absolute;
+  top: 146px;
+  left: 980px;
+}
+.stitch{
+position: relative;
+width: 50px;
+height: 20px;
+z-index: -1;
+border-radius: 40px;
+}
+.header{
+position: relative;
+left: 490px;
+top:30px;
+font-family: 'Merriweather', serif;
+font-size:20pt;
+color: #d71630;
+letter-spacing: 2px;
+}
+#stitch1-1{
+background-color: #294bda;
+top: -100px;
+left: 70px;
+}
+#stitch1-2{
+background-color: #d71630;
+top: -70px;
+left: 70px;
+}
+#stitch1-3{
+background-color: #ffdc00;
+top: -40px;
+left: 70px;
+}
+#stitch1-4{
+background-color: #b28ded;
+width: 20px;
+height: 50px;
+top: -385px;
+left: 240px;
+}
+#stitch1-5{
+background-color: #93da4b;
+width: 20px;
+height: 50px;
+top: -435px;
+left: 280px;
+}
+#stitch2-1{
+background-color: #d71630;
+width: 20px;
+height: 50px;
+top: -145px;
+left: 420px;
+}
+#stitch2-2{
+background-color: #ffdc00;
+width: 20px;
+height: 50px;
+top: -195px;
+left: 460px;
+}
+#stitch2-3{
+background-color: #294bda;
+width: 20px;
+height: 50px;
+top: -585px;
+left: 580px;
+}
+#stitch3-1{
+background-color: #f29b4b;
+width: 20px;
+height: 50px;
+top: -295px;
+left: 800px;
+}
+#stitch3-2{
+background-color: #b28ded;
+width: 20px;
+height: 50px;
+top: -345px;
+left: 750px;
+}
+#stitch3-3{
+background-color: #93da4b;
+top: -650px;
+left: 900px;
+}
+#stitch3-4{
+background-color: #ffdc00;
+top: -710px;
+left: 900px;
+}
+#stitch3-5{
+background-color: #d71630;
+top: -650px;
+left: 900px;
+}
+#stitch4-1{
+background-color: #93da4b;
+width: 20px;
+height: 50px;
+top: -795px;
+left: 1020px;
+}
+#stitch4-2{
+background-color: #ffdc00;
+width: 20px;
+height: 50px;
+top: -505px;
+left: 1070px;
+}
+#stitch4-3{
+background-color: #d71630;
+width: 20px;
+height: 50px;
+top: -555px;
+left: 1150px;
+}
+#stitch4-4{
+background-color: #294bda;
+width: 20px;
+height: 50px;
+top: -605px;
+left: 1180px;
+}
